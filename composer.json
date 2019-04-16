@@ -1,0 +1,16 @@
+{
+  "name": "SebastianWesolowski/SW_contact-setting",
+  "type": "wordpress-muplugin",
+  "description": "Simple plugin, use API wordpress setting",
+  "keywords": [
+    "wordpress",
+    "plugin"
+  ],
+  "homepage": "https://github.com/SebastianWesolowski/SW_contact-setting",
+  "authors": [{
+    "name": "Sebastian Wesołowski"
+  }],
+  "require": {
+    "php": ">=5.6"
+  }
+}
