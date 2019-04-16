@@ -1,10 +1,11 @@
 <?php
 /*
-Plugin Name: SW_contact-setting
-Plugin URI: warszatkodu.pl
-Description: Simple plugin, use API wordpress setting
-Version: 1.0.0
+Plugin URI: warsztatkodu.pl
+Description: Customize WordPress admin theme
+Version: 1.0.1
 Author: Sebastian Wesołowski
+Author URI: warsztatkodu.pl
+Copyright: Sebastian Wesołowski
 */
 
 
