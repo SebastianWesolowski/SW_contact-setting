@@ -1,12 +1,19 @@
 <?php
-/*
-Plugin URI: warsztatkodu.pl
-Description: Customize WordPress admin theme
-Version: 1.0.1
-Author: Sebastian Wesołowski
-Author URI: warsztatkodu.pl
-Copyright: Sebastian Wesołowski
-*/
+
+/**
+ * Plugin Name:      sw_contact-setting
+ * Plugin URI:       https://github.com/sebastianwesolowski/sw_contact-setting
+ * Description:      Customize WordPress admin theme
+ * Version:          1.0.1
+ * Author:           Sebastian Wesołowski
+ * Author URI:       warsztatkodu.pl, wesolowski.dev
+ * Text Domain:      sw_contact-setting
+ * Domain Path:      /resources/lang
+ * License:          MIT
+ * License URI:      http://opensource.org/licenses/MIT
+ *
+ * @package         sw_contact-setting
+ */
 
 
 add_action('admin_menu', function () {
